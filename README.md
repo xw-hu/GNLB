@@ -30,7 +30,7 @@ Saliency Dataset for Texture Smoothing (SDTS) can be downloaded from [Google Dri
 
 ## Test   
 
-1. (Matlab User) Enter the `examples/GNLB/` and run `test_saliency.m` in Matlab. 
+1. Enter the `examples/GNLB/` and run `test_saliency.m` in Matlab. 
 
 2. Apply CRF to do the post-processing for each image.   
    The code for CRF can be found in [https://github.com/Andrew-Qibin/dss_crf](https://github.com/Andrew-Qibin/dss_crf)   
