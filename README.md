@@ -8,7 +8,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 ***
 
 ## Citation
-
+Submitted to IEEE Transactions on Visualization and Computer Graphics.
 
 ## Dataset
 
