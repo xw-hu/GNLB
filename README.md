@@ -1,9 +1,8 @@
-# GNLB (Guided Non-local Block)
-
 # Saliency-aware Texture Smoothing
 
 by Lei Zhu*, Xiaowei Hu*, Chi-Wing Fu, Jing Qin and Pheng-Ann Heng (* joint first authors)
 
+# Guided Non-local Block
 This implementation is written by Xiaowei Hu at the Chinese University of Hong Kong.
 
 ***
