@@ -40,11 +40,11 @@ Saliency Dataset for Texture Smoothing (SDTS) can be downloaded from [Google Dri
   
 ## Train
 
-Download the pre-trained ResNet-101 caffemodel on ImageNet.
+Download the pre-trained ResNet-101 caffemodel on ImageNet.         
 Put this model in `CF-Caffe/models/`.
    
 1. Enter the `examples/GNLB/GNLB/`   
-   Modify the image path in `train_val.prototxt`.
+   Modify the image path in `train_val.prototxt`.          
    Modify the weight path in `train.sh` for different training sets (MSRA10K or SDTS) following our paper.
 
 2. Run   
