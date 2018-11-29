@@ -2,7 +2,7 @@
 
 by Lei Zhu*, Xiaowei Hu*, Chi-Wing Fu, Jing Qin and Pheng-Ann Heng (* joint first authors)
 
-# Guided Non-local Block
+## Guided Non-local Block for Saliency Detection
 This implementation is written by Xiaowei Hu at the Chinese University of Hong Kong.
 
 ***
