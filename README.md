@@ -12,7 +12,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 ## Dataset
 
-Saliency Dataset for Texture Smoothing (SDTS) can be downloaded from [Google Drive]().
+Saliency Dataset for Texture Smoothing (SDTS) can be downloaded from [Google Drive](https://drive.google.com/file/d/1vo7kYFyaPRYQtj8b196sXy2FoN8oPnNZ/view?usp=sharing).
 
 ## Installation
 
