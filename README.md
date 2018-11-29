@@ -1,4 +1,4 @@
-# GNLB
+# GNLB (Guided Non-local Block)
 
 # Saliency-aware Texture Smoothing
 
