@@ -8,7 +8,12 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 ***
 
 ## Citation
-Submitted to IEEE Transactions on Visualization and Computer Graphics.
+@article{hu2018direction,   
+&nbsp;&nbsp;&nbsp;&nbsp;  author = {Zhu, Lei and Hu, Xiaowei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},    
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Saliency-aware Texture Smoothing},    
+&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Visualization and Computer Graphics},    
+&nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
+}
 
 ## Dataset
 
