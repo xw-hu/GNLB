@@ -1,4 +1,4 @@
-# Saliency-aware Texture Smoothing
+# Saliency-Aware Texture Smoothing
 
 by Lei Zhu*, Xiaowei Hu*, Chi-Wing Fu, Jing Qin and Pheng-Ann Heng (* joint first authors)
 
@@ -10,7 +10,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 ## Citation
 @article{zhu2018saliency,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Zhu, Lei and Hu, Xiaowei and Fu, Chi-Wing and Qin, Jing and Heng, Pheng-Ann},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Saliency-aware Texture Smoothing},    
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Saliency-Aware Texture Smoothing},    
 &nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Visualization and Computer Graphics},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2018}    
 }
